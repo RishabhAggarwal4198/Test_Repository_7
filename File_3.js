@@ -5,4 +5,6 @@ let Name2 = 4;
 console.log(Name2);
 let Name3 = 6;
 console.log(Name3);
+let Name4 = 7;
+console.log(Name4);
 }
